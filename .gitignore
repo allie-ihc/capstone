@@ -1,0 +1,30 @@
+# Starter from Chapter 9 code files - update if/when project-specific secrets are added
+# secrets and local config
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+service-account*.json
+
+# local data and build output
+*.sqlite
+*.sqlite3
+*.db
+/dist/
+/build/
+/target/
+/out/
+
+# dependencies (never commit these; the lock file is the record)
+/node_modules/
+/venv/
+/.venv/
+__pycache__/
+
+# editor and OS noise
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
