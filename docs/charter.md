@@ -1,6 +1,6 @@
 # Project Charter — Allie Moldenhauer
 
-**Owner:** Allie Moldenhauer · **Course:** Capstone · **Started:** <2026-08-24> · **Last revised:** <2026-08-24>
+**Owner:** Allie Moldenhauer · **Course:** Capstone · **Started:** <2026-08-24> · **Last revised:** <2026-08-27>
 
 ## 1. Purpose
 
@@ -19,7 +19,7 @@ To practice creating a small, functional application from backend to frontend wh
 | Hours available per week | 15 |
 | Total hours budgeted | 240 |
 | Weeks that are already broken (and where those hours move) |  |
-| Machine (OS, RAM, disk) | |
+| Machine (OS, RAM, disk) | Windows 11, 24GB, ~400GB free |
 | Administrator rights on that machine? | Yes |
 | Money I will spend on this project | |
 | Technologies I already know well | |
@@ -28,21 +28,18 @@ To practice creating a small, functional application from backend to frontend wh
 
 ## 4. Definition of finished
 
-<!-- Write the acceptance test for the whole semester, as something someone
-     else could check without asking you a question. Three to six bullets. -->
+- All core features that allow the application to function as intended are present.
+- There is a way for users to interact with and perform all of the necessary functions within the application in order to use the application for it's main purpose.
+- Every piece of the application has documentation, including the purpose of that piece of the application and how that piece of the application runs.
+- Another programmer could look at and understand the architecture and inner workings of the application by looking at the information within this repo. 
 
 ## 5. Non-goals — what I will NOT build or do
 
-<!-- At least five. Non-goals are the only part of this charter that can stop a
-     bad decision in Week 10, so make them specific enough to point at.
-     BAD:  "I won't over-engineer it."
-     GOOD: "I will not build a mobile client. Web only, one browser target." -->
-
-1. I will not introduce accounts, and will instead assume a user is already logged in if the applicaiton would use      accounts. 
-2. I will 
-3.
-4.
-5.
+1. I will not introduce accounts, and will instead assume a user is already logged in if the application would use accounts. 
+2. I will create the application to only run one on fixed screen size and on one platform.
+3. I will not focus on creating a complicated or pretty UI - I will only build the UI I need to demonstrate the functionality of my work. 
+4. I will not work on optional or side features until the core functional features of my project are built and working correctly. 
+5. I will not focus on improving the efficiency of code that already runs properly unless the rest of the features of my project have been built out. 
 
 ## 6. Risks to me finishing
 
