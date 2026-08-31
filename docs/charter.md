@@ -1,6 +1,6 @@
 # Project Charter — Allie Moldenhauer
 
-**Owner:** Allie Moldenhauer · **Course:** Capstone · **Started:** <2026-08-24> · **Last revised:** <2026-08-27>
+**Owner:** Allie Moldenhauer · **Course:** Capstone · **Started:** <2026-08-24> · **Last revised:** <2026-08-30>
 
 ## 1. Purpose
 
@@ -18,13 +18,13 @@ To practice creating a small, functional application from backend to frontend wh
 |---|---|
 | Hours available per week | 15 |
 | Total hours budgeted | 240 |
-| Weeks that are already broken (and where those hours move) |  |
+| Weeks that are already broken (and where those hours move) | Week 14 - family vacation over Thanksgiving, push extra 5 hours to weeks 13 and 14. Week 8 - finals week for 8-week classes. Push 5 hours up to Week 6 during sixth Friday break weekend to balance out.  |
 | Machine (OS, RAM, disk) | Windows 11, 24GB, ~400GB free |
 | Administrator rights on that machine? | Yes |
-| Money I will spend on this project | |
-| Technologies I already know well | |
-| Technologies I am willing to learn (max two) | |
-| Hard external deadlines besides this course | |
+| Money I will spend on this project | Less than $50 |
+| Technologies I already know well | Languages: Python, C++, C#, Java, Javascript. IDES: VScode, Eclipse. Platforms: Windows |
+| Technologies I am willing to learn (max two) | Android/programming for Android |
+| Hard external deadlines besides this course | Week 8 - end of 8-week courses |
 
 ## 4. Definition of finished
 
@@ -45,17 +45,17 @@ To practice creating a small, functional application from backend to frontend wh
 
 | # | Risk | Likelihood (L/M/H) | Impact (L/M/H) | Early warning sign | What I will do |
 |---|---|---|---|---|---|
-| R1 | | | | | |
-| R2 | | | | | |
-| R3 | | | | | |
+| R1 | My work schedule is variable. Time I block off for this class during this week could get taken up by my future work schedule. | M | H | Schedule posted two weeks in advance | Compare blocked time to schedule when it posts every Monday. Move blocks then to fit into other free periods I have to stay on track.  |
+| R2 | Two 8-week classes will wrap up in Week 8 and will likely require more dedicated time during the last week than usual. | H | M | Can look ahead, will have a better idea by week 6/7 what final week will entail. | Push 5 hours up to week 6 and work ahead through week 8 to end up on track.  |
+| R3 | I have a tendency to become overambitious when building projects and bite off more than I can chew | M | H | Struggling to get a walking skeleton together by Week 9 of the project | Be very specific when planning scope of the project to limit myself. Hold myself accountable to my non-goals and plan out requirements with estimated time to build each requirement in mind |
 
 ## 7. Working agreement
 
-- **Sessions:** <days and times you are blocking on a real calendar>
+- **Sessions:** Blocked on Monday - 1:00-7:00, Tuesday - 1:30-4:30, Thursday 8:00-11:00, Saturday 5:30-8:30
 - **Logging:** every session ends with a row in `docs/hours-log.csv`, written before I close the laptop.
-- **Board:** work-in-progress limit of <n>; nothing moves to Done without its stopping condition met.
+- **Board:** work-in-progress limit of 2; nothing moves to Done without its stopping condition met.
 - **Commits:** requirement identifier first in the subject line; one logical change per commit.
-- **When I fall behind, I cut in this order:** <ranked, decided now, while it is cheap>
+- **When I fall behind, I cut in this order:** optional features/extra credit pieces, supplementary features, documentation not directly related to application function, main features of application
 - **AI use:** governed by `docs/ai-usage.md`; every Amber-zone use is logged the day it happens.
 
 ## 8. Signature
@@ -63,4 +63,4 @@ To practice creating a small, functional application from backend to frontend wh
 I have counted the cost of this work as honestly as I can today, and I accept the
 schedule above.
 
-<name>, <YYYY-MM-DD>
+Allie Moldenhauer, 2026-08-30
