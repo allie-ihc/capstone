@@ -12,3 +12,4 @@ date,start,end,hours,phase,hat,task,estimate_hours,blocked_hours,notes
 2026-09-04,10:00,10:35,0.58,inception,product-owner,conduct interview,0.5,0.5,
 2026-09-05,3:36,5:32,1.93,inception,product-owner,begin work on filling out candidate docs,2.0,2.0,
 2026-09-06,5:43,11:44,5.01,inception,product-owner,work on candidate docs/scoping memo/dependencies,6.0,6.0,got sick over the weekend and pushed back work on the project while I recovered
+2026-09-06,11:44,12:00,0.27,inception,product-owner,create cards on board for each required feature,0.5,0.5,
