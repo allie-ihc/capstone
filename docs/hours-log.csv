@@ -11,4 +11,4 @@ date,start,end,hours,phase,hat,task,estimate_hours,blocked_hours,notes
 2026-09-04,8:53,9:36,0.71,inception,product-owner,create five interview questions,1.0,1.0,template helped me come up more quickly with questions than I thought
 2026-09-04,10:00,10:35,0.58,inception,product-owner,conduct interview,0.5,0.5,
 2026-09-05,3:36,5:32,1.93,inception,product-owner,begin work on filling out candidate docs,2.0,2.0,
-2026-09-06,7:43,11:44,3.01,inception,product-owner,work on candidate docs, scoping memo, dependencies,4.0,4.0,got sick over the weekend and pushed back work on the project while I recovered
+2026-09-06,5:43,11:44,5.01,inception,product-owner,work on candidate docs,scoping memo,dependencies,4.0,4.0,got sick over the weekend and pushed back work on the project while I recovered
